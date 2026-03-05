@@ -4,21 +4,55 @@
 
 > *"No busco que las máquinas sean humanas. Busco que los humanos recuerden cómo aprenden."*
 
-### Origins
+### Origins — The Workshop Next to the Cemetery
 
-Born in **Villaguay, Entre Ríos, Argentina** in 1982 — a small town in the Argentine heartland where technology felt like science fiction. Self-taught from the beginning: no CS degree, no Silicon Valley mentorship, no accelerator programs. Just curiosity, persistence, and an internet connection.
+Born in **Villaguay, Entre Ríos, Argentina** in 1982 — a small town in the Argentine heartland, in a humble neighborhood facing a cemetery. No CS degree. No Silicon Valley. No mentors. Just a kid, his older brother's electronics workshop, and infinite curiosity.
 
-The journey started with **robots in 2012**. Physical machines that could sense and respond to the world. Then came software: teaching machines to see (computer vision), to listen (NLP), to understand threats (cybersecurity), and eventually to think autonomously (AI agents).
+The real journey started there — in that workshop. Daniel and his older brother built small electronic machines by hand: **devices that made sounds, mosquito repellers, FM radio transmitters, spy microphones**. All from scraps and salvaged components. A kid who couldn't yet fully understand the theory, but whose hands already knew how to make electricity do things.
+
+That same curiosity drove him to build **scientific instruments from nothing**:
+- A **pluviometer** to measure rain
+- A **barometer** to read atmospheric pressure
+- A **hygrometer made with human hair** — the old-school method, because you work with what you have
+- A **formicarium** — an ant farm to observe colony behavior
+- A **stellarium** — a star chart to map the sky
+- A **telescope built from old lenses** — because the universe doesn't care if your equipment is expensive
+
+```
+That kid in Villaguay, soldering wires in a workshop
+next to a cemetery, watching ants build colonies
+and stars move across a handmade telescope —
+that kid is still building.
+
+Every neural network, every WAF signature,
+every autonomous agent is a descendant
+of those first circuits.
+```
+
+### The Disconnection and The Return
+
+During adolescence, like many, Daniel briefly disconnected from that curious child. Life got in the way. But in **2007, at age 25**, the kid came back.
+
+He started studying **malware reversing** — taking apart malicious software the way he once took apart radios. Understanding how things break is the first step to understanding how to build them stronger.
+
+That same year, he migrated to **Chubut, Patagonia** — the end of the world.
 
 ### The Path
 
 ```
-📍 Villaguay, Entre Ríos    → Where it started
-📍 Puerto Madryn, Chubut    → Where it all converges
+📍 Villaguay, Entre Ríos    → The workshop, the cemetery, the first circuits
+📍 Chubut, Patagonia (2007) → The return of the curious kid
+📍 Puerto Madryn            → Where it all converges
 📍 45° South Latitude       → "The end of the world"
 ```
 
-**2012-2014** — Robotics research. Hardware experiments. Building machines that shouldn't work but do.
+**2007-2009** — Malware reversing, binary analysis, first steps into cybersecurity. Learning to see code the way an attacker sees it.
+
+**2010-2012** — **Vulnerability research**. Reported multiple vulnerabilities that helped improve the security of important websites and systems in Chubut province. Real impact: finding holes before attackers did, and helping fix them. This wasn't CTF — this was responsible disclosure on production systems.
+
+**2012** — Founded **Chubut Hack** — a cybersecurity community to spread hacking culture in a region where none existed. Because if nobody is teaching security in your city, you build the community yourself.
+
+**2012-2014** — Returned to hardware. Robotics research. Building physical machines that sense and respond to the world — the same impulse from the workshop, now with better tools.
 
 **2015-2017** — Created **JarvisIA**, the first voice assistant in Spanish. Built with Wit.ai, Google Speech API, and IoT control. Deployed on Raspberry Pi. The project that proved Latin America could build AI, not just consume it.
 
@@ -28,7 +62,7 @@ The journey started with **robots in 2012**. Physical machines that could sense 
 
 **2018-2020** — Deep learning era: fire detection with YOLOv3 (because Patagonia burns every summer), NDVI vegetation analysis from drone imagery, plant pest detection for agriculture. All deployed on edge devices.
 
-**2021-2022** — The turning point: **adversarial ML attacks**. Studying how to break neural networks revealed how to defend them. Co-founded **Chubut Hack**, bringing 20+ cybersecurity talks to a region that had zero conferences.
+**2021-2022** — The turning point: **adversarial ML attacks**. Studying how to break neural networks revealed how to defend them. Revitalized **Chubut Hack**, bringing 20+ cybersecurity talks and speakers from across LATAM to a region that had zero conferences.
 
 **2023-2024** — Founded the **AI Resilience Hub Village at Ekoparty** (Latin America's largest security conference). Became professor at **Hackademy** (Ekoparty's education platform). Published the **WAF + AI Paper** — combining Naive Bayes classifiers with GPT for autonomous WAF learning.
 
