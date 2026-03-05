@@ -8,25 +8,38 @@
 
 Born in **Villaguay, Entre Ríos, Argentina** in 1982 — a small town in the Argentine heartland, in a humble neighborhood facing a cemetery. No CS degree. No Silicon Valley. No mentors. Just a kid, his older brother's electronics workshop, and infinite curiosity.
 
-The real journey started there — in that workshop. Daniel and his older brother built small electronic machines by hand: **devices that made sounds, mosquito repellers, FM radio transmitters, spy microphones**. All from scraps and salvaged components. A kid who couldn't yet fully understand the theory, but whose hands already knew how to make electricity do things.
+But the workshop was only half the story. The other half was **outside** — in the dirt, under rocks, between plants.
+
+Daniel was obsessed with **insects and plants**. He spent hours observing them, trying to understand how they worked. Not just watching — *studying*. How do ants coordinate without a leader? How does a plant know to grow toward light? What happens inside a caterpillar's cocoon? He didn't have textbooks. He had patience and eyes.
+
+The formicarium (ant farm) wasn't a toy — it was his first experiment in **emergent behavior**: individual agents following simple rules that produce complex collective intelligence. He didn't know the term yet, but he was watching swarm intelligence before he could spell it.
+
+One day, following a manual he'd found, he **dissected a frog with a Gillette razor blade**. Layer by layer. Organs, muscles, circulatory system. A kid in a small town, teaching himself anatomy because he needed to know *how things work inside*. No lab, no teacher, no permission — just the manual, the blade, and the need to understand.
+
+> *This is the same impulse that would later drive him to reverse-engineer malware, disassemble neural networks, and take apart WAF evasion payloads. The tool changed — from a Gillette to a debugger to TensorFlow — but the drive never did: open it up, look inside, understand how it works.*
+
+In the workshop, he and his older brother built small electronic machines by hand: **devices that made sounds, mosquito repellers, FM radio transmitters, spy microphones**. All from scraps and salvaged components. A kid who couldn't yet fully understand the theory, but whose hands already knew how to make electricity do things.
 
 That same curiosity drove him to build **scientific instruments from nothing**:
 - A **pluviometer** to measure rain
 - A **barometer** to read atmospheric pressure
 - A **hygrometer made with human hair** — the old-school method, because you work with what you have
-- A **formicarium** — an ant farm to observe colony behavior
+- A **formicarium** — an ant farm to observe colony behavior and emergent intelligence
 - A **stellarium** — a star chart to map the sky
 - A **telescope built from old lenses** — because the universe doesn't care if your equipment is expensive
 
 ```
-That kid in Villaguay, soldering wires in a workshop
-next to a cemetery, watching ants build colonies
-and stars move across a handmade telescope —
-that kid is still building.
+A kid who dissected a frog with a Gillette to understand anatomy.
+Who watched ants for hours to understand organization.
+Who built a telescope from trash to understand the sky.
+Who soldered FM radios to understand waves.
 
-Every neural network, every WAF signature,
-every autonomous agent is a descendant
-of those first circuits.
+That kid is still dissecting things.
+Now the frog is a neural network.
+The ant farm is a WAF processing millions of requests.
+The telescope points at attack patterns instead of stars.
+
+And the Gillette? It became a Python debugger.
 ```
 
 ### The Disconnection and The Return
