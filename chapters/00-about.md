@@ -138,4 +138,10 @@ This book follows that approach. Every chapter leads to a lab. Every concept has
 
 ---
 
+### Contact
+
+**Telegram:** [@mrmoz33](https://t.me/mrmoz33)
+
+---
+
 *"I build from the end of the world. Where penguins outnumber developers and the wind teaches you that persistence isn't optional."*
