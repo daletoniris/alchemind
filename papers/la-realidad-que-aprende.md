@@ -4,6 +4,24 @@
 
 > *Daniel Dieser — 2025*
 
+> *Escrito originalmente en 2019, cuando la inteligencia artificial todavia no ocupaba el centro de nuestra conversacion global. Hoy lo conservo casi intacto, porque fue, sin que yo lo supiera, el punto de partida de una vision que me acompanaria todos estos anos. Lo escribi como quien anota una intuicion en medio de una tormenta de ideas. Hoy lo entiendo como una especie de senal temprana: la antesala de todo lo que vino despues.*
+
+---
+
+## El colapso de la realidad objetiva
+
+A lo largo de los siglos, la humanidad ha debatido sobre la verdadera naturaleza de la realidad. Hasta hace no mucho, la ciencia se sostenia sobre una creencia aparentemente inquebrantable: la existencia de un mundo externo, objetivo, independiente del observador. Segun ese paradigma, los objetos poseen propiedades fisicas definidas — masa, velocidad, posicion, energia — con valores precisos y absolutos. Nuestras teorias, y por consecuencia nuestras percepciones, se erigieron sobre esas bases.
+
+Pero esa "realidad" comenzo a desmoronarse. Primero con la fisica cuantica, que nos obligo a aceptar que el observador modifica el fenomeno que mide. Y hoy, con la inteligencia artificial, esa grieta se vuelve un espejo: estamos creando sistemas que **aprenden a observarnos**, que analizan nuestra manera de pensar, sentir y decidir.
+
+> **La IA como revelacion:** Pienso que la IA nos esta ayudando a revelar los limites de nuestro entendimiento y, al mismo tiempo, a trascenderlos. No creo, como algunos sostienen, que vaya a explicarlo todo. Pero si creo que nos esta mostrando algo esencial: que **la realidad tambien aprende**, igual que nosotros.
+
+> **Comprender para no ser condicionado:** En cada charla que doy, siempre insisto en lo mismo: no se trata de temerle a la IA, sino de **comprenderla**, aunque sea en lo minimo. Porque quien no la comprende, tarde o temprano, termina siendo observado — y condicionado — por ella.
+
+Bajo esta premisa, en los proximos anos cuestionaremos aun mas nuestras certezas cientificas, porque habra cambiado por completo el punto de vista desde el cual observamos y medimos cada fenomeno. Y muchas de las ideas que hoy consideramos "absolutas" quizas nos parezcan ridiculas en apenas un par de decadas.
+
+> *Tal vez, como pensaba Feynman, existan multiples historias capaces de explicar una misma cosa, y la suma de todas ellas sea lo que realmente nos acerque a una comprension mas profunda.*
+
 ---
 
 ## I. The Premise

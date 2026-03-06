@@ -81,11 +81,20 @@ That same year, he migrated to **Chubut, Patagonia** — the end of the world.
 
 **2025-2026** — Built **TokioAI** — a full production autonomous Security Operations Center. 26 WAF signatures, multi-phase attack correlation, multi-LLM autonomous agent (Claude/GPT/Gemini), 63 integrated tools. Protecting live infrastructure 24/7.
 
-### Philosophy
+### La Actual Comunidad
 
-Daniel's teaching methodology is called **"enfoque activo"** (active approach):
+| | Role | Description |
+|---|------|-------------|
+| **Ekoparty** | Founder & Director | AI Resilience Hub Village — where artificial intelligence meets hacker curiosity and philosophical thinking. Latin America's largest security conference. |
+| **Hackademy** | Professor | Ekoparty's education platform, teaching under a new educational paradigm based on the **enfoque activo**. |
 
-> *"I don't teach theory and then wait for practice. I throw you into the problem first. You struggle. You fail. Then the theory makes sense because you NEED it."*
+### Filosofia: El Enfoque Activo
+
+El **enfoque activo** es mucho mas que un metodo de ensenanza: es una manera de vivir y aprender. Un principio aplicable tanto para crear sistemas de defensa o ataque en el campo de la ciberseguridad, como para expandir la conciencia y aprender cualquier cosa nueva. Se basa en la accion consciente, la observacion directa y la experimentacion constante: **aprender haciendo, entender creando**. Lo ayer aprendido no es absoluto, estar dispuesto a que eso manana se desvanezca como la niebla.
+
+> *Su enfoque de aprendizaje se funda en el error y en el desconocimiento; es justamente ahi — en la falla, en la pregunta sin respuesta — donde encuentra la sabiduria y las pistas para avanzar.*
+
+Esa filosofia lo llevo a transformar problemas en oportunidades de aprendizaje y a construir soluciones practicas que hoy aplican equipos de seguridad.
 
 This book follows that approach. Every chapter leads to a lab. Every concept has a reason to exist.
 

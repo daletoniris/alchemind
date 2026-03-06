@@ -18,7 +18,7 @@
 This isn't a textbook. It's a **journey through the mind of machines**, told by someone who has been building AI systems for 13 years from Patagonia, Argentina.
 
 ```
-📖 Book (7 chapters)     — History, theory, philosophy
+📖 Book (8 chapters)     — History, vision, theory, defense
 🔬 Papers (2 published)  — Neural networks, WAF+AI
 🧪 Labs (4 exercises)    — Hands-on ML for security
 🏗️ The Warden           — Autonomous defense architecture
@@ -36,7 +36,8 @@ This isn't a textbook. It's a **journey through the mind of machines**, told by 
 | 0 | [**About the Author**](chapters/00-about.md) | From Villaguay to Patagonia. A self-taught researcher's path through robotics, AI, and cybersecurity. |
 | 1 | [**La Etapa Oscura de la IA**](chapters/01-dark-age.md) | The forgotten history: Turing's dream, McCulloch & Pitts' neuron (1943), Rosenblatt's Perceptron (1958), Minsky's critique, the AI winters, and the resurgence. |
 | 2 | [**La Profecía de Villaguay**](chapters/02-prophecy.md) | In 2017, a newspaper interview from a small Argentine town predicted AI would replace jobs and surpass humans. They called it crazy. |
-| 3 | [**Redes Neuronales como nunca te las explicaron**](papers/neural-networks-2018.md) | The 2018 paper that explains neural networks the way nobody else does — with analogies, history, and zero gatekeeping. |
+| 3 | [**El Despertar de la Visión Artificial**](chapters/03-vision.md) | The Kur dream (2013), TensorFlow on Raspberry Pi, first real projects: pest detection, drone YOLO, autonomous vehicle, CAPTCHAs, pandemic models. |
+| — | [**Redes Neuronales como nunca te las explicaron**](papers/neural-networks-2018.md) | The 2018 paper that explains neural networks the way nobody else does — with analogies, history, and zero gatekeeping. |
 
 ### Part II — Understanding the Machine
 

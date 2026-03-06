@@ -10,14 +10,30 @@
 
 In 2017, a local newspaper in **Villaguay, Entre Ríos** — a small town of 50,000 people in the Argentine heartland — published an interview with a local researcher who had been building AI systems.
 
-The claims were provocative:
+![Recorte del diario de Villaguay, 2017](../media/villaguay-diario-2017.jpg)
+*"Llegará el momento de tomar una decisión: fusionarse con la máquina... o ser gobernado por ella."*
 
-1. **"Artificial Intelligence will replace most jobs within a decade"**
-2. **"Machines will surpass human intelligence in specific domains"**
-3. **"Latin America needs to build its own AI — not wait for Silicon Valley"**
-4. **"The first Spanish voice assistant already exists — we built it here"**
+In that interview, Daniel said things that at the time sounded exaggerated and delirious:
+
+> *"Llegara un momento en que tendremos que tomar una decision: fusionarnos con la maquina... o ser gobernado por ella."*
+
+He talked about artificial intelligence when almost nobody in Argentina was talking about AI. He talked about robots supervising jobs. He talked about how AI was going to surpass humans. He talked about how we couldn't compete with our own invention. And he said it with total certainty.
+
+He described how he built drones, robotic arms, prosthetics controlled by muscle signals, how he 3D-printed parts with machines he himself built, and how he saw technology advancing faster than human capacity to adapt.
+
+He also said another phrase that today seems pulled from 2025:
+
+> *"La inteligencia artificial va a reemplazar mucha mano de obra. El que se adapte no va a tener problemas. El que no... va a quedar afuera."*
+
+And he closed with a vision that is happening before our eyes:
+
+> *"La IA nos va a superar"*
+
+He spoke about the cure of all diseases and the possible end of civilization in 100 years if we don't find the way out. He said AI would help us in the attempt.
 
 In 2017, this was dismissed as science fiction. Neural networks were still a niche topic. AlphaGo had just beaten Lee Sedol, but most people had no idea what that meant.
+
+Today, looking back, many of those ideas weren't predictions: they were the early reading of a wave that was about to come. And now he stands right where that wave exploded. The prophecy wasn't futuristic. It was the beginning of the path he's walking now.
 
 ---
 
