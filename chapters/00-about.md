@@ -4,9 +4,25 @@
 
 > *"No busco que las máquinas sean humanas. Busco que los humanos recuerden cómo aprenden."*
 
-### Origins — The Workshop Next to the Cemetery
+### Before the Beginning — The Journey That Chose Me
 
-Born in **Villaguay, Entre Ríos, Argentina** in 1982 — a small town in the Argentine heartland, in a humble neighborhood facing a cemetery. No CS degree. No Silicon Valley. No mentors. Just a kid, his older brother's electronics workshop, and infinite curiosity.
+The story starts before it starts.
+
+Daniel's biological mother, **Sonia**, was from **Comodoro Rivadavia, Chubut**. She got pregnant in **Rada Tilly** — a small coastal town in Patagonia. Still a teenager, at just 18, she traveled while carrying him in her belly all the way to **Villaguay, Entre Ríos**, where he would be born. First she arrived at her grandmother's house. Then she moved to the house of her aunt — **Eva** — who would become Daniel's mother.
+
+Sonia couldn't raise him. But she placed him in the best hands she could find. Eva, along with her own children, became his family, his guides, his light. And Eva's house became what Daniel would later call **la casa mágica** — the magic house.
+
+That magic house was the one with the patio full of insects. The one with the electronics workshop. The one where a curious kid would spend hours dissecting the world before he knew the word "science."
+
+> *As if before entering this game, he had chosen very well where to start and with whom. Gestated in Chubut. Born in Entre Ríos. Raised in the magic house. And decades later, he would return to Chubut — to Patagonia, to the end of the world — to build everything that followed. The circle was always there.*
+
+Grateful to Sonia for giving him life and for the courage of letting go. Grateful to Eva for raising him with an extraordinary light that guided him through every dark night.
+
+---
+
+### Origins — The Magic House Next to the Cemetery
+
+Born in **Villaguay, Entre Ríos, Argentina** in 1982 — a small town in the Argentine heartland, in a humble neighborhood facing a cemetery. No CS degree. No Silicon Valley. No mentors. Just a kid, his mother Eva's house, his older brother's electronics workshop, and infinite curiosity.
 
 But the workshop was only half the story. The other half was **outside** — in the dirt, under rocks, between plants.
 
@@ -53,8 +69,9 @@ That same year, he migrated to **Chubut, Patagonia** — the end of the world.
 ### The Path
 
 ```
-📍 Villaguay, Entre Ríos    → The workshop, the cemetery, the first circuits
-📍 Chubut, Patagonia (2007) → The return of the curious kid
+📍 Rada Tilly, Chubut       → Where it all began — gestated in Patagonia
+📍 Villaguay, Entre Ríos    → La casa mágica, the cemetery, the first circuits
+📍 Chubut, Patagonia (2007) → The return — full circle back to where he was conceived
 📍 Puerto Madryn            → Where it all converges
 📍 45° South Latitude       → "The end of the world"
 ```
