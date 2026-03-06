@@ -14,7 +14,13 @@ Sonia couldn't raise him. But she placed him in the best hands she could find. E
 
 That magic house was the one with the patio full of insects. The one with the electronics workshop. The one where a curious kid would spend hours dissecting the world before he knew the word "science."
 
-> *As if before entering this game, he had chosen very well where to start and with whom. Gestated in Chubut. Born in Entre Ríos. Raised in the magic house. And decades later, he would return to Chubut — to Patagonia, to the end of the world — to build everything that followed. The circle was always there.*
+He was born on **April 18, 1982** — exactly 27 years to the day after **Albert Einstein's death** (April 18, 1955). A coincidence, maybe. But the strangest book that ever arrived in his childhood was one about Einstein. He didn't understand why it attracted him so much. He only told his mother: *"Quiero ser como él. Un científico."* She told him to ask his brother. And his brother explained, and guided him. That was how the workshop began.
+
+At **9 years old**, he read the Bible cover to cover. The **Book of Revelation** became one of his favorites. **Verse 13:18** fascinated him — he spent months trying to decipher it, obsessed with the mystery of its meaning. Years later, at 19, he studied **Hebrew** to get closer to the original texts. Later still, in Comodoro Rivadavia, he took **Greek** classes. He traveled everywhere with a pile of heavy books — always searching, always decoding.
+
+> *The kid who tried to decipher Revelation 13:18 is the same one who now deciphers attack patterns in network traffic. The kid who studied Hebrew and Greek to read the originals is the same one who reads assembly and Python to understand what machines are really saying. The impulse never changed: go to the source, read the original, decode the meaning.*
+
+> *As if before entering this game, he had chosen very well where to start and with whom. Born the same day Einstein died. Gestated in Chubut. Born in Entre Ríos. Raised in the magic house. And decades later, he would return to Chubut — to Patagonia, to the end of the world — to build everything that followed. The circle was always there.*
 
 Grateful to Sonia for giving him life and for the courage of letting go. Grateful to Eva for raising him with an extraordinary light that guided him through every dark night.
 
